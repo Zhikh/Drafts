@@ -6,3 +6,4 @@ Notes on the margin
 ## Articles
 - [Iterator blocks](https://blogs.msdn.microsoft.com/ericlippert/tag/iterators/)
 - [NLog](https://github.com/NLog/NLog/wiki/Tutorial)
+- [Code first migration commands for Entity Framework](http://www.mortenanderson.net/code-first-migrations-for-entity-framework)
