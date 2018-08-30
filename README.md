@@ -8,3 +8,6 @@ Notes on the margin
 - [NLog](https://github.com/NLog/NLog/wiki/Tutorial)
 - [Code first migration commands for Entity Framework](http://www.mortenanderson.net/code-first-migrations-for-entity-framework)
 - [XML comments](https://docs.microsoft.com/en-us/dotnet/csharp/codedoc)
+- [Mocking a repository using Moq](https://abelperezmartinez.blogspot.com/2014/01/mocking-repository-using-moq.html)
+### Web
+- [Introduction to IIS Architectures](https://docs.microsoft.com/en-us/iis/get-started/introduction-to-iis/introduction-to-iis-architecture)
