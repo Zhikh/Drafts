@@ -5,6 +5,7 @@ Notes on the margin
 - [Key-words](https://seesparkbox.com/foundry/semantic_commit_messages)
 ## Git
 - [Tags](https://nitstorm.github.io/blog/introduction-to-git-tags/)
+- [Rewriting history](https://www.atlassian.com/git/tutorials/rewriting-history)
 ## Articles
 - [Iterator blocks](https://blogs.msdn.microsoft.com/ericlippert/tag/iterators/)
 - [NLog](https://github.com/NLog/NLog/wiki/Tutorial)
