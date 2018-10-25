@@ -8,6 +8,7 @@ Notes on the margin
 - [Rewriting history](https://www.atlassian.com/git/tutorials/rewriting-history)
 ## Articles
 - [Iterator blocks](https://blogs.msdn.microsoft.com/ericlippert/tag/iterators/)
+- [Banker's rounding](https://blogs.msdn.microsoft.com/ericlippert/2003/09/26/bankers-rounding/)
 - [NLog](https://github.com/NLog/NLog/wiki/Tutorial)
 - [Code first migration commands for Entity Framework](http://www.mortenanderson.net/code-first-migrations-for-entity-framework)
 - [XML comments](https://docs.microsoft.com/en-us/dotnet/csharp/codedoc)
