@@ -20,3 +20,4 @@ Notes on the margin
 ### Web
 - [Introduction to IIS Architectures](https://docs.microsoft.com/en-us/iis/get-started/introduction-to-iis/introduction-to-iis-architecture)
 - [React setup](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
+- [Jest](https://medium.freecodecamp.org/components-testing-in-react-what-and-how-to-test-with-jest-and-enzyme-7c1cace99de5)
