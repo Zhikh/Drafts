@@ -23,3 +23,5 @@ Notes on the margin
 - [Jest](https://medium.freecodecamp.org/components-testing-in-react-what-and-how-to-test-with-jest-and-enzyme-7c1cace99de5)
 ### TFS
 - [Introduction to TFS](https://www.dotnettricks.com/learn/tfs/introduction-to-tfs)
+### JS
+- [Monkey-Patching, Overriding, and Decorating Methods in JavaScript](http://me.dt.in.th/page/JavaScript-override/)
