@@ -7,6 +7,7 @@ Notes on the margin
 - [Tags](https://nitstorm.github.io/blog/introduction-to-git-tags/)
 - [Rewriting history](https://www.atlassian.com/git/tutorials/rewriting-history)
 ## Articles
+- [Best practices for exceptions](https://docs.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions)
 - [Iterator blocks](https://blogs.msdn.microsoft.com/ericlippert/tag/iterators/)
 - [Banker's rounding](https://blogs.msdn.microsoft.com/ericlippert/2003/09/26/bankers-rounding/)
 - [NLog](https://github.com/NLog/NLog/wiki/Tutorial)
