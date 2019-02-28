@@ -16,6 +16,7 @@ Notes on the margin
 - [Code first migration commands for Entity Framework](http://www.mortenanderson.net/code-first-migrations-for-entity-framework)
 - [XML comments](https://docs.microsoft.com/en-us/dotnet/csharp/codedoc)
 - [Mocking a repository using Moq](https://abelperezmartinez.blogspot.com/2014/01/mocking-repository-using-moq.html)
+- [Mocking protected members with Moq](http://blogs.clariusconsulting.net/kzu/mocking-protected-members-with-moq/)
 - [Using AutoMapper](https://cpratt.co/using-automapper-getting-started/)
 - [Unity DI Container](http://ikeptwalking.com/microsoft-unity-tutorial/)
 ### Web
