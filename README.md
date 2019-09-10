@@ -19,6 +19,7 @@ Notes on the margin
 - [Mocking protected members with Moq](http://blogs.clariusconsulting.net/kzu/mocking-protected-members-with-moq/)
 - [Using AutoMapper](https://cpratt.co/using-automapper-getting-started/)
 - [Unity DI Container](http://ikeptwalking.com/microsoft-unity-tutorial/)
+- [Code Review](https://medium.com/palantir/code-review-best-practices-19e02780015f)
 ### Web
 - [Introduction to IIS Architectures](https://docs.microsoft.com/en-us/iis/get-started/introduction-to-iis/introduction-to-iis-architecture)
 - [React setup](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
